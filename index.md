@@ -1,4 +1,4 @@
-# Changmin Yu (于昌民)
+## Changmin Yu (于昌民)
 
 ## Brief Bio
 I am currently a PhD candidate at UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess) and [Maneesh Sahani](http://www.gatsby.ucl.ac.uk/~maneesh/). I am generally interested in theoretical neuroscience (specifically computational models of neurons in the hippocampal formation), reinforcement learning (mostly model-based) and probabilistic graphical models (mostly VAE-like models and how they relate to perception in the cortical areas). I am funded by the [Foundational AI CDT](https://www.ucl.ac.uk/ai-centre/study/foundational-artificial-intelligence-mphilphd). I previously studied mathematics at Imperial College and University of Cambridge.
