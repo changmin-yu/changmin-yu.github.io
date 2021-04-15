@@ -11,4 +11,4 @@ I am currently undertaking a research internship at [Microsoft Research Asia](ht
 * **Yu, C.**, Seslija, M., Brownbridge, G., Mosbach, S., Kraft, M., Parsi, M., ... & Bhave, A., 2020. [Deep kernel learning approach to engine emissions modeling.](https://www.cambridge.org/core/journals/data-centric-engineering/article/deep-kernel-learning-approach-to-engine-emissions-modeling/638332CFF08E18BCD55D6ACC75BB3B28) *Data-Centric Engineering, 1.*
 
 ## Contact
-You may reach me at changmin.yu.19[at]ucl.ac.uk or via twitter [@ChangminYu_](https://twitter.com/changminYu_)
+You may reach me via email at *changmin.yu.19[at]ucl.ac.uk* or via twitter [@ChangminYu_](https://twitter.com/changminYu_)
