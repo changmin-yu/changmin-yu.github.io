@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Changmin Yu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a PhD student at UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess) and [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/). I am interested in deep probabilistic models, computational neuroscience, and reinforcement learning. I did research internships with the machine learning group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and the reinforcement learning team at Huawei [Noah's Ark Lab](http://www.noahlab.com.hk/). Prior to PhD, I studied mathematics at Imperial College and Cambridge.
+Hi, I am Changmin Yu (于昌民). I am a PhD student at UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess) and [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/). I am interested in deep probabilistic models, computational neuroscience, and reinforcement learning. I did research internships with the machine learning group at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) and the reinforcement learning team at Huawei [Noah's Ark Lab](http://www.noahlab.com.hk/). Prior to PhD, I studied mathematics at Imperial College and Cambridge.
 
 <!-- A data-driven personal website
 ======
