@@ -20,12 +20,12 @@ Work experience
 * 03/2021-06/2021: Research internship
   * Microsoft Research Asia
   * Research projects: generative modelling of protein sequence
-  * Supervisor: Lijun Wu
+  * Supervisor: Lijun Wu, Tao Qin
 
 * 11/2020-02/2021: Research internship
   * Huawei Noah's Ark Lab
   * Research projects: generative models in model-based reinforcement learning
-  * Supervisor: Dong Li
+  * Supervisor: Dong Li, Jianye Hao
   
 <!-- Skills
 ======
