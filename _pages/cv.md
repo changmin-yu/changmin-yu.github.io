@@ -15,8 +15,13 @@ Education
 * MPhil, University of Cambridge, 2017-2018
 * BSc, Imperial College London, 2014-2017
 
-Work experience
+Industrial / Academic Research Experience
 ======
+* 09/2022-01/2023: Visiting researcher
+  * Department of Psychology, Harvard University
+  * Research projects: neural implementation of amortised variational inference
+  * Supervisor: Sam Gershman
+
 * 03/2021-06/2021: Research internship
   * Microsoft Research Asia
   * Research projects: generative modelling of protein sequence
