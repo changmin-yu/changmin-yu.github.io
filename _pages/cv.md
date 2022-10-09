@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, UCL, 2019-2023 (expected)
+* PhD, UCL, 2019-2023 (expected)
 * MPhil, University of Cambridge, 2017-2018
 * BSc, Imperial College London, 2014-2017
 
