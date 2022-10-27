@@ -13,9 +13,9 @@ author_profile: true
 
 ## Peer-Reviewed Conferences
 
-[<span style="font-size:larger;">Amortised Inference in Structured Generative Models with Explaining Away.</span>](https://arxiv.org/abs/2209.05212)  
+[<span style="font-size:larger;">Structured Recognition for Generative Models with Explaining Away.</span>](https://arxiv.org/abs/2209.05212)  
 ***Changmin Yu**, Hugo Soulat, Neil Burgess, Maneesh Sahani.*  
-*Advances in Neural Information Processing Systems 36* (2022).
+*Advances in Neural Information Processing Systems, 36* (2022).
 
 
 [<span style="font-size:larger;">Learning State Representations via Retracing in Reinforcement Learning.</span>](https://arxiv.org/abs/2111.12600)  
@@ -38,6 +38,16 @@ author_profile: true
 [<span style="font-size:larger;">Deep Kernel Learning Approach to Engine Emissions Modeling.</span>](https://doi.org/10.1017/dce.2020.4)  
 ***Changmin Yu**, Marko Seslija, George Brownbridge, Sebastian Mosbach, Markus Kraft, Mohammad Parsi, Mark Davis,Vivian Page, and Amit Bhave.*  
 *In Data-Centric Engineering 1* (2020).
+
+## Conference Workshops
+
+[<span style="font-size:larger;">Leveraging Episodic Memory to Improve World Models for Reinforcement Learning.</span>](https://openreview.net/forum?id=XgDJNzBBgrc)  
+*Julian Coda-Forno, **Changmin Yu**, Qinghai Guo, Zafeirios Fountas, Neil Burgess.*
+*Memory in Artificial and Real Intelligence workshop at NeurIPS 2022.*
+
+[<span style="font-size:larger;">Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning.</span>](https://openreview.net/forum?id=cbu8kYSYzBm)  
+***Changmin Yu**, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess.*  
+*Self-Supervision for Reinforcement Learning Workshop at ICLR 2021.*
 
 ## Preprints
 
