@@ -13,6 +13,10 @@ author_profile: true
 
 ## Peer-Reviewed Conferences
 
+[<span style="font-size:larger;">Unsupervised Representation Learning with Recognition-Parametrised Probabilistic Models.</span>](https://arxiv.org/abs/2209.05661)  
+*William Walker, Hugo Soulat, **Changmin Yu**, Maneesh Sahani.*  
+*International Conference on Artificial Intelligence and Statistics, vol. 206 of Proceedings of Machine Learning Research* (2023).
+
 [<span style="font-size:larger;">Structured Recognition for Generative Models with Explaining Away.</span>](https://arxiv.org/abs/2209.05212)  
 ***Changmin Yu**, Hugo Soulat, Neil Burgess, Maneesh Sahani.*  
 *Advances in Neural Information Processing Systems, 36* (2022).
@@ -51,18 +55,13 @@ author_profile: true
 
 ## Preprints
 
-[<span style="font-size:larger;">Unsupervised Representational Learning with Recognition-Parametrised Probabilistic Models.</span>](https://arxiv.org/abs/2209.05661)  
-*William I.Walker, Hugo Soulat, **Changmin Yu**, Maneesh Sahani.*  
-*arXiv preprint arXiv:2209.05661* (2022).
+[<span style="font-size:larger;">Successor-Predecessor Intrinsic Exploration.</span>](https://arxiv.org/abs/2305.15277#:~:text=Abstract%3A%20Exploration%20is%20essential%20in,with%20self%2Dgenerated%20intrinsic%20rewards.)  
+***Changmin Yu**, Neil Burgess, Maneesh Sahani, Samuel J. Gershman.*  
+*arXiv preprint arXiv:2305.15277* (2023).
 
 [<span style="font-size:larger;">SEREN: Knowing When to Explore and When to Exploit.</span>](https://arxiv.org/abs/2205.15064)  
 ***Changmin Yu**, David Mguni, Dong Li, Aivar Sootla, Jun Wang, Neil Burgess.*  
 *arXiv preprint arXiv:2205.15064* (2022).
-
-<span style="font-size:larger;">Leveraging Episodic Memory to Improve World Models for Reinforcement Learning.</span>  
-*Julian Coda-Forno, **Changmin Yu**, Qinghai Guo, Zafeirios Fountas, Neil Burgess.*  
-(2022).
-
 
 [<span style="font-size:larger;">DESTA: A Framework for Safe Reinforcement Learning with Markov Games of Intervention.</span>](https://arxiv.org/abs/2110.14468#:~:text=DESTA%3A%20A%20Framework%20for%20Safe%20Reinforcement%20Learning%20with%20Markov%20Games%20of%20Intervention,-David%20Mguni%2C%20Usman&text=Reinforcement%20learning%20(RL)%20involves%20performing,and%20potentially%20catastrophic%20system%20states.)  
 *David Henry Mguni, Usman Islam, Yaqi Sun, Xiuling Zhang, Joel Jennings, Aivar Sootla, **Changmin Yu**, Jun Wang, and Yaodong Yang.*  
