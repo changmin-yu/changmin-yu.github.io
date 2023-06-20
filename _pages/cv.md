@@ -25,7 +25,7 @@ Industrial / Academic Research Experience
 ======
 * 09/2022-01/2023: Visiting researcher
   * Department of Psychology, Harvard University
-  * Research projects: neural implementation of amortised variational inference
+  * Research projects: intrinsic exploration with prospective and retrospective information
   * Supervisor: Sam Gershman
 
 * 03/2021-06/2021: Research internship
