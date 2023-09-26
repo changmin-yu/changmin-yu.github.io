@@ -13,6 +13,10 @@ author_profile: true
 
 ## Peer-Reviewed Conferences
 
+[<span style="font-size:larger;">Successor-Predecessor Intrinsic Exploration.</span>](https://arxiv.org/abs/2305.15277#:~:text=Abstract%3A%20Exploration%20is%20essential%20in,with%20self%2Dgenerated%20intrinsic%20rewards.)  
+***Changmin Yu**, Neil Burgess, Maneesh Sahani, Samuel J. Gershman.*  
+*Advances in Neural Information Processing Systems, 37* (2023).
+
 [<span style="font-size:larger;">Unsupervised Representation Learning with Recognition-Parametrised Probabilistic Models.</span>](https://arxiv.org/abs/2209.05661)  
 *William Walker, Hugo Soulat, **Changmin Yu**, Maneesh Sahani.*  
 *International Conference on Artificial Intelligence and Statistics, vol. 206 of Proceedings of Machine Learning Research* (2023).
@@ -54,10 +58,6 @@ author_profile: true
 *Self-Supervision for Reinforcement Learning Workshop at ICLR 2021.*
 
 ## Preprints
-
-[<span style="font-size:larger;">Successor-Predecessor Intrinsic Exploration.</span>](https://arxiv.org/abs/2305.15277#:~:text=Abstract%3A%20Exploration%20is%20essential%20in,with%20self%2Dgenerated%20intrinsic%20rewards.)  
-***Changmin Yu**, Neil Burgess, Maneesh Sahani, Samuel J. Gershman.*  
-*arXiv preprint arXiv:2305.15277* (2023).
 
 [<span style="font-size:larger;">SEREN: Knowing When to Explore and When to Exploit.</span>](https://arxiv.org/abs/2205.15064)  
 ***Changmin Yu**, David Mguni, Dong Li, Aivar Sootla, Jun Wang, Neil Burgess.*  

@@ -17,20 +17,20 @@ Education
 
 Industrial / Academic Research Experience
 =====
-* 07/2023-12/2023: Research internship
+* 08/2023-12/2023: Research internship
   * Meta CTRL-Labs
-  * Research projects: TBD
-  * Supervisor: Nariman Farsad
+  * Research projects: Online uncertainty quantification of deep learning models with conformal prediction.
+  * Supervisor: Nariman Farsad, Ali Farshchian
 
 ======
 * 09/2022-01/2023: Visiting researcher
   * Department of Psychology, Harvard University
-  * Research projects: intrinsic exploration with prospective and retrospective information
+  * Research projects: Intrinsic exploration with prospective and retrospective information.
   * Supervisor: Sam Gershman
 
 * 03/2021-06/2021: Research internship
   * Microsoft Research Asia
-  * Research projects: generative modelling of protein sequence
+  * Research projects: Pretraining and finetuning of large language models for protein sequence modeling.
   * Supervisor: Lijun Wu, Tao Qin
   
 <!-- Skills
