@@ -9,9 +9,27 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-Hi, I am Changmin Yu (于昌民). I am a Wellcome-Trust funded postdoctoral researcher at [Computational and Biological Lab](https://www.cbl-cambridge.org/) in the engineering department at University of Cambridge, advised by [Máté Lengyel](https://cbl.eng.cam.ac.uk/lengyel/). Previously, I did my PhD in computational neuroscience and machine learning at UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess) and [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/). My research focus on normative modelling of hippocampal system with probabilistic inference. I am also interested in deep generative models and reinforcement learning. I undertook research internships with the machine learning group at Meta, Microsoft Research, and Huawei Noah's Ark Lab, and was a visiting PhD student in [Sam Gershman](https://gershmanlab.com/)'s lab. Prior to PhD, I studied mathematics at Imperial College and Cambridge.
+Hi, I am Changmin Yu (于昌民). I am currently a postdoc in computational
+neuroscience at [Computational and Biological
+Lab](https://www.cbl-cambridge.org/) in the engineering department at University
+of Cambridge, advised by [Máté Lengyel](https://cbl.eng.cam.ac.uk/lengyel/).
+Previously, I did my PhD in computational neuroscience and machine learning at
+UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess)
+and [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/). My research focus
+on normative modelling of hippocampal system with probabilistic inference. I am
+also interested in deep generative models and reinforcement learning. I have
+previously undertaken industrial placements in Optiver, Meta, Microsoft
+Research, and Huawei, and was a visiting PhD student in [Sam
+Gershman](https://gershmanlab.com/)'s lab. Prior to PhD, I studied mathematics
+at Imperial College and Cambridge.
 
-In my spare time, I enjoy hiking, playing football and badminton (picked up only recently).
+Starting January 2026, I will join the newly instantiated [Shanghai Innovation
+Institute](https://www.sii.edu.cn/) as an assistant professor, my lab will be
+focusing on computational neuroscience and brain-inspired AI, please get in
+touch if you are interested in working with me, either as a PhD student or an
+internship placement. 
+
+In my spare time, I enjoy hiking, playing football and tennis.
 
 <!-- A data-driven personal website
 ======
