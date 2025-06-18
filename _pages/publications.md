@@ -14,7 +14,7 @@ author_profile: true
 ## Peer-Reviewed Conferences
 [<span style="font-size:larger;">Discovering Temporally Compositional Neural Manifolds with Switching Infinite GPFA.</span>](https://www.biorxiv.org/content/10.1101/2024.10.04.616623v2)  
 ***Changmin Yu**, Maneesh Sahani, Máté Lengyel*  
-*International Conference on Learning Representations, 14* (2025).
+*International Conference on Learning Representations, 14. Spotlight Presentation.* (2025).
 
 [<span style="font-size:larger;">Successor-Predecessor Intrinsic Exploration.</span>](https://arxiv.org/abs/2305.15277#:~:text=Abstract%3A%20Exploration%20is%20essential%20in,with%20self%2Dgenerated%20intrinsic%20rewards.)  
 ***Changmin Yu**, Neil Burgess, Maneesh Sahani, Samuel J. Gershman.*  
