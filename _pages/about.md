@@ -23,12 +23,6 @@ Research, and Huawei, and was a visiting PhD student in [Sam
 Gershman](https://gershmanlab.com/)'s lab. Prior to PhD, I studied mathematics
 at Imperial College and Cambridge.
 
-Starting January 2026, I will join the newly instantiated [Shanghai Innovation
-Institute](https://www.sii.edu.cn/) as an assistant professor, my lab will be
-focusing on computational neuroscience and brain-inspired AI, please get in
-touch if you are interested in working with me, either as a PhD student or an
-internship placement. 
-
 In my spare time, I enjoy hiking, playing football and tennis.
 
 <!-- A data-driven personal website
