@@ -61,6 +61,9 @@ author_profile: true
 *Self-Supervision for Reinforcement Learning Workshop at ICLR 2021.*
 
 ## Preprints
+[<span style="font-size:larger;">	Hippocampal Theta Sweeps Indicate Goal Direction.</span>](https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1)  
+***Changmin Yu**, Zilong Ji, Jake Ormond, John O’Keefe, Neil Burgess.*  
+*Under Review* (2025).
 
 [<span style="font-size:larger;">Dynamical Modulation of Hippocampal Replay Sequences through Firing Rate Adaptation.</span>](https://www.biorxiv.org/content/10.1101/2024.09.13.612895v1)  
 *Zilong Ji, Tianhao Chu, Xingsi Dong, **Changmin Yu**, Daniel Bush, Neil Burgess, Si Wu.*  

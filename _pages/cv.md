@@ -8,10 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+Academic Experience
+=====
+* Postdoc, Computational and Biological Learning Lab, Department of Engineering, University of Cambridge, 2024-now.
 
 Education
 ======
-* PhD, UCL, 2019-2023 (expected)
+* PhD, UCL, 2019-2024
 * MPhil, University of Cambridge, 2017-2018
 * BSc, Imperial College London, 2014-2017
 
@@ -22,7 +25,6 @@ Industrial / Academic Research Experience
   * Research projects: Online uncertainty quantification of deep learning models with conformal prediction.
   * Supervisor: Nariman Farsad, Ali Farshchian
 
-======
 * 09/2022-01/2023: Visiting researcher
   * Department of Psychology, Harvard University
   * Research projects: Intrinsic exploration with prospective and retrospective information.

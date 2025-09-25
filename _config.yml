@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Changmin Yu"
 title_separator          : "-"
 name                     : &name "Changmin Yu"
-description              : &description "PhD student in machine learning and computational neuroscience at UCL"
+description              : &description "Postdoc in computational neuroscience at CBL, Cambridge"
 url                      : https://changmin-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "changmin-yu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Changmin Yu"
   avatar           : "profile_pic.png"
-  bio              : "PhD student in machine learning and computational neuroscience at UCL"
+  bio              : "Postdoc in computational neuroscience at CBL, Cambridge"
   location         : "London, UK"
   employer         :
   pubmed           : 
