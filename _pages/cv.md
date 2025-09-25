@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Academic Experience
 =====
-* Postdoc, Computational and Biological Learning Lab, Department of Engineering, University of Cambridge, 2024-now.
+* Postdoc in computational neuroscience, CBL, Department of Engineering, University of Cambridge, 2024-now.
 
 Education
 ======

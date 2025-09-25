@@ -77,6 +77,10 @@ author_profile: true
 *David Henry Mguni, Usman Islam, Yaqi Sun, Xiuling Zhang, Joel Jennings, Aivar Sootla, **Changmin Yu**, Jun Wang, and Yaodong Yang.*  
 *arXiv preprint arXiv:2110.14468* (2021).
 
+## Thesis
+[<span style="font-size:larger;">Hippocampus-Inspired Representation Learning for Artificial Agents. </span>](https://discovery.ucl.ac.uk/id/eprint/10193105/)  
+***Changmin Yu***  
+Examiner: Peter Dayan, Andrew Saxe.
 
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
