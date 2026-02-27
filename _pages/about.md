@@ -1,65 +1,149 @@
 ---
 permalink: /
-title: "About me"
+title: ""
+layout: home
 excerpt: "About me"
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-Hi, I am Changmin Yu (于昌民). I am currently a postdoc in computational
-neuroscience at [Computational and Biological
-Lab](https://www.cbl-cambridge.org/) in the engineering department at University
-of Cambridge, advised by [Máté Lengyel](https://cbl.eng.cam.ac.uk/lengyel/).
-Previously, I did my PhD in computational neuroscience and machine learning at
-UCL, supervised by [Neil Burgess](https://www.ucl.ac.uk/icn/people/neil-burgess)
-and [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/). My research focus
-on normative modelling of hippocampal system with probabilistic inference. I am
-also interested in deep generative models and reinforcement learning. I have
-previously undertaken industrial placements in Optiver, Meta, Microsoft
-Research, and Huawei, and was a visiting PhD student in [Sam
-Gershman](https://gershmanlab.com/)'s lab. Prior to PhD, I studied mathematics
-at Imperial College and Cambridge.
+<!-- ==================== ABOUT ME ==================== -->
+<div class="home-section">
+  <h2 class="section-heading">About Me</h2>
+  <div class="about-text">
+    <p>
+      Hi, I am Changmin Yu (于昌民). I am currently a postdoc in computational
+      neuroscience at <a href="https://www.cbl-cambridge.org/">Computational and Biological Learning Lab</a>
+      in the engineering department at University of Cambridge, advised by
+      <a href="https://cbl.eng.cam.ac.uk/lengyel/">Máté Lengyel</a>.
+      Previously, I did my PhD in computational neuroscience and machine learning at UCL as a DeepMind scholar,
+      supervised by <a href="https://www.ucl.ac.uk/icn/people/neil-burgess">Neil Burgess</a>
+      and <a href="https://www.gatsby.ucl.ac.uk/~maneesh/">Maneesh Sahani</a>. 
+    </p>
+    <p>
+      My research focuses on normative modelling of hippocampal system with probabilistic inference.
+      I am also interested in deep generative models and reinforcement learning.
+      I have previously undertaken industrial placements in Optiver, Meta, Microsoft Research, and Huawei,
+      and was a visiting PhD student in <a href="https://gershmanlab.com/">Samuel Gershman</a>'s lab.
+      Prior to PhD, I studied mathematics at Imperial College and Cambridge.
+    </p>
+    <p>In my spare time, I enjoy hiking, playing football and tennis.</p>
+  </div>
+</div>
 
-In my spare time, I enjoy hiking, playing football and tennis.
+<!-- ==================== SELECTED PUBLICATIONS ==================== -->
+<div class="home-section">
+  <h2 class="section-heading">Selected Publications/Preprints</h2>
 
-<!-- A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+  <ul class="pub-list">
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/hsr.png" alt="Hierarchical SR">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
+        <div class="pub-venue">Under review, 2026</div>
+      </div>
+    </li>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/theta_sweeps.png" alt="Theta sweeps">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess</div>
+        <div class="pub-venue">Under review, 2025</div>
+      </div>
+    </li>
 
-<!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/sigpfa.png" alt="Switching iGPFA">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://openreview.net/forum?id=2iCIHgE8KG">Discovering temporally compositional neural manifolds with wwitching infinite GPFA</a>
+          <span class="pub-badge pub-badge--spotlight">Spotlight</span>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Maneesh Sahani, Máté Lengyel</div>
+        <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025</div>
+      </div>
+    </li>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/spie.png" alt="SPIE">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://openreview.net/forum?id=ohKbQp0jIY&noteId=rYkgNrjMoB">Successor-Predecessor Intrinsic Exploration</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Neil Burgess, Maneesh Sahani, Samuel J. Gershman</div>
+        <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2023</div>
+      </div>
+    </li>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/sr_gpfa.png" alt="Structured Recognition">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/003a96110b7134d678cb675c6aea6c7d-Paper-Conference.pdf">Structured Recognition for Generative Models with Explaining Away</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Hugo Soulat, Neil Burgess, Maneesh Sahani</div>
+        <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
+      </div>
+    </li>
 
-**Markdown generator**
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/grid_cell.png" alt="Grid Cells">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://openreview.net/references/pdf?id=NmyyCfqTi">Prediction and Generalisation over Directed Actions by Grid Cells</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Timothy E.J. Behrens, Neil Burgess</div>
+        <div class="pub-venue">International Conference on Learning Representations (ICLR), 2021</div>
+      </div>
+    </li>
+  </ul>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+  <a href="/publications/" class="section-more">View all publications →</a>
+</div>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<!-- ==================== NEWS ==================== -->
+<div class="home-section">
+  <h2 class="section-heading">News</h2>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+  <ul class="news-list">
+    <li class="news-item">
+      <span class="news-date">Jan 2025</span>
+      <span class="news-text">Our paper "Discovering temporally compositional neural manifolds with switching infinite GPFA" was accepted as a <strong>Spotlight</strong> at ICLR 2025.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Oct 2024</span>
+      <span class="news-text">I was awarded a Trainee Professional Development Award for Society for Neuroscience (SfN) 2024.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Jan 2024</span>
+      <span class="news-text">Started postdoc position at <a href="https://www.cbl-cambridge.org/">CBL, University of Cambridge</a>, working with Máté Lengyel.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Nov 2023</span>
+      <span class="news-text">I successfully defended my PhD thesis "Hippocampus-Inspired Representation Learning for Artificial Agents" with minor corrections, thanks to my examiners Peter Dayan and Andrew Saxe!</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">Sep 2023</span>
+      <span class="news-text">Our paper "Successor-Predecessor Intrinsic Exploration" was accepted at NeurIPS 2023.</span>
+    </li>
+  </ul>
+</div>

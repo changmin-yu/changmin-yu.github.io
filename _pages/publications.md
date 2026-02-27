@@ -2,91 +2,153 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<div class="publications-page">
 
-{% include base_path %} -->
+<p style="margin-bottom: 2em; color: #636e72;">
+  You can also find my articles on my <a href="https://scholar.google.com/citations?user=HhwfbHMAAAAJ&hl=en">Google Scholar profile</a>.
+</p>
 
-## Peer-Reviewed Conferences
-[<span style="font-size:larger;">Discovering Temporally Compositional Neural Manifolds with Switching Infinite GPFA.</span>](https://www.biorxiv.org/content/10.1101/2024.10.04.616623v2)  
-***Changmin Yu**, Maneesh Sahani, Máté Lengyel*  
-*International Conference on Learning Representations, 14. Spotlight Presentation.* (2025).
+<!-- ## Published -->
+<h2 class="section-heading">Published</h2>
 
-[<span style="font-size:larger;">Successor-Predecessor Intrinsic Exploration.</span>](https://arxiv.org/abs/2305.15277#:~:text=Abstract%3A%20Exploration%20is%20essential%20in,with%20self%2Dgenerated%20intrinsic%20rewards.)  
-***Changmin Yu**, Neil Burgess, Maneesh Sahani, Samuel J. Gershman.*  
-*Advances in Neural Information Processing Systems, 37* (2023).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://www.nature.com/articles/s41467-025-68042-3">Dynamical modulation of hippocampal replay through firing rate adaptation</a>
+  </div>
+  <div class="pub-entry-authors">Zilong Ji, Tianhao Chu, Xingsi Dong, <strong>Changmin Yu</strong>, Daniel Bush, Neil Burgess & Si Wu </div>
+  <div class="pub-entry-venue">Nature Communications, 2025</div>
+</div>
 
-[<span style="font-size:larger;">Unsupervised Representation Learning with Recognition-Parametrised Probabilistic Models.</span>](https://arxiv.org/abs/2209.05661)  
-*William Walker, Hugo Soulat, **Changmin Yu**, Maneesh Sahani.*  
-*International Conference on Artificial Intelligence and Statistics, vol. 206 of Proceedings of Machine Learning Research* (2023).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/forum?id=2iCIHgE8KG">Discovering temporally compositional neural manifolds with switching infinite GPFA</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Maneesh Sahani, Máté Lengyel</div>
+  <div class="pub-entry-venue">International Conference on Learning Representations (ICLR), 2025 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
+</div>
 
-[<span style="font-size:larger;">Structured Recognition for Generative Models with Explaining Away.</span>](https://arxiv.org/abs/2209.05212)  
-***Changmin Yu**, Hugo Soulat, Neil Burgess, Maneesh Sahani.*  
-*Advances in Neural Information Processing Systems, 36* (2022).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/forum?id=ohKbQp0jIY&noteId=rYkgNrjMoB">Successor-predecessor intrinsic exploration</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Neil Burgess, Maneesh Sahani, Samuel J. Gershman</div>
+  <div class="pub-entry-venue">Advances in Neural Information Processing Systems (NeurIPS), 2023</div>
+</div>
 
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://proceedings.mlr.press/v206/walker23a/walker23a.pdf">Unsupervised representation learning with recognition-parametrised probabilistic models</a>
+  </div>
+  <div class="pub-entry-authors">William Walker, Hugo Soulat, <strong>Changmin Yu</strong>, Maneesh Sahani</div>
+  <div class="pub-entry-venue">International Conference on Artificial Intelligence and Statistics (AISTATS), 2023</div>
+</div>
 
-[<span style="font-size:larger;">Learning State Representations via Retracing in Reinforcement Learning.</span>](https://arxiv.org/abs/2111.12600)  
-***Changmin Yu**, Dong Li, Jianye Hao, Jun Wang, and Neil Burgess.*  
-*Tenth International Conference on Learning Representations* (2021).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/003a96110b7134d678cb675c6aea6c7d-Paper-Conference.pdf">Structured recognition for generative models with explaining away</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Hugo Soulat, Neil Burgess, Maneesh Sahani</div>
+  <div class="pub-entry-venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
+</div>
 
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/forum?id=CLpxpXqqBV0">Learning state representations via retracing in reinforcement learning</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Dong Li, Jianye Hao, Jun Wang, Neil Burgess</div>
+  <div class="pub-entry-venue">International Conference on Learning Representations (ICLR), 2021</div>
+</div>
 
-[<span style="font-size:larger;">What About Inputting Policy in Value Function: Policy Representation and Policy-Extended Value Function Approximator.</span>](https://arxiv.org/abs/2010.09536)  
-*Hongyao Tang, Zhaopeng Meng, Jianye Hao, Chen Chen, Daniel Graves, Dong Li, **Changmin Yu**, Hangyu Mao, Wulong Liu, Yaodong Yang, Wenyuan Tao, Li Wang.*  
-*In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 8, pp. 8441-8449).* (2020).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/20820">What about inputting policy in value function: policy representation and policy-extended value function approximator</a>
+  </div>
+  <div class="pub-entry-authors">Hongyao Tang, Zhaopeng Meng, Jianye Hao, Chen Chen, Daniel Graves, Dong Li, <strong>Changmin Yu</strong>, Hangyu Mao, Wulong Liu, Yaodong Yang, Wenyuan Tao, Li Wang</div>
+  <div class="pub-entry-venue">AAAI Conference on Artificial Intelligence, 2020 <span class="pub-badge pub-badge--spotlight">Long Presentation</span></div>
+</div>
 
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/references/pdf?id=NmyyCfqTi">Prediction and generalisation over directed actions by grid cells</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Timothy E.J. Behrens, Neil Burgess</div>
+  <div class="pub-entry-venue">International Conference on Learning Representations (ICLR), 2020</div>
+</div>
 
-[<span style="font-size:larger;">Prediction and Generalisation over Directed Actions by Grid Cells.</span>](https://arxiv.org/abs/2006.03355)  
-***Changmin Yu**, Timothy E.J. Behrens, Neil Burgess.*  
-*Ninth International Conference on Learning Representations* (2020).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://doi.org/10.1017/dce.2020.4">Deep kernel learning approach to engine emissions modeling</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Marko Seslija, George Brownbridge, Sebastian Mosbach, Markus Kraft, Mohammad Parsi, Mark Davis, Vivian Page, Amit Bhave</div>
+  <div class="pub-entry-venue">Data-Centric Engineering, 2020</div>
+</div>
 
+<!-- ## Preprints -->
+<h2 class="section-heading">Preprints</h2>
 
-## Peer-Reviewed Journals
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
+  <div class="pub-entry-venue">Under Review, 2026</div>
+</div>
 
-[<span style="font-size:larger;">Deep Kernel Learning Approach to Engine Emissions Modeling.</span>](https://doi.org/10.1017/dce.2020.4)  
-***Changmin Yu**, Marko Seslija, George Brownbridge, Sebastian Mosbach, Markus Kraft, Mohammad Parsi, Mark Davis,Vivian Page, and Amit Bhave.*  
-*In Data-Centric Engineering 1* (2020).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess</div>
+  <div class="pub-entry-venue">Under Review, 2025</div>
+</div>
 
-## Conference Workshops
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://arxiv.org/abs/2205.15064">SEREN: Knowing When to Explore and When to Exploit</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, David Mguni, Dong Li, Aivar Sootla, Jun Wang, Neil Burgess</div>
+  <div class="pub-entry-venue">arXiv preprint, 2022</div>
+</div>
 
-[<span style="font-size:larger;">Leveraging Episodic Memory to Improve World Models for Reinforcement Learning.</span>](https://openreview.net/forum?id=XgDJNzBBgrc)  
-*Julian Coda-Forno, **Changmin Yu**, Qinghai Guo, Zafeirios Fountas, Neil Burgess.*
-*Memory in Artificial and Real Intelligence workshop at NeurIPS 2022.*
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://arxiv.org/abs/2110.14468">DESTA: A Framework for Safe Reinforcement Learning with Markov Games of Intervention</a>
+  </div>
+  <div class="pub-entry-authors">David Henry Mguni, Usman Islam, Yaqi Sun, Xiuling Zhang, Joel Jennings, Aivar Sootla, <strong>Changmin Yu</strong>, Jun Wang, Yaodong Yang</div>
+  <div class="pub-entry-venue">arXiv preprint, 2021</div>
+</div>
 
-[<span style="font-size:larger;">Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning.</span>](https://openreview.net/forum?id=cbu8kYSYzBm)  
-***Changmin Yu**, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess.*  
-*Self-Supervision for Reinforcement Learning Workshop at ICLR 2021.*
+<!-- ## Conference Workshops -->
+<h2 class="section-heading">Conference Workshops</h2>
 
-## Preprints
-[<span style="font-size:larger;">	Hippocampal Theta Sweeps Indicate Goal Direction.</span>](https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1)  
-***Changmin Yu**, Zilong Ji, Jake Ormond, John O’Keefe, Neil Burgess.*  
-*Under Review* (2025).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/forum?id=XgDJNzBBgrc">Leveraging Episodic Memory to Improve World Models for Reinforcement Learning</a>
+  </div>
+  <div class="pub-entry-authors">Julian Coda-Forno, <strong>Changmin Yu</strong>, Qinghai Guo, Zafeirios Fountas, Neil Burgess</div>
+  <div class="pub-entry-venue">Memory in Artificial and Real Intelligence Workshop at NeurIPS, 2022</div>
+</div>
 
-[<span style="font-size:larger;">Dynamical Modulation of Hippocampal Replay Sequences through Firing Rate Adaptation.</span>](https://www.biorxiv.org/content/10.1101/2024.09.13.612895v1)  
-*Zilong Ji, Tianhao Chu, Xingsi Dong, **Changmin Yu**, Daniel Bush, Neil Burgess, Si Wu.*  
-*Under Review* (2024).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://openreview.net/forum?id=cbu8kYSYzBm">Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess</div>
+  <div class="pub-entry-venue">Self-Supervision for Reinforcement Learning Workshop at ICLR, 2021</div>
+</div>
 
-[<span style="font-size:larger;">SEREN: Knowing When to Explore and When to Exploit.</span>](https://arxiv.org/abs/2205.15064)  
-***Changmin Yu**, David Mguni, Dong Li, Aivar Sootla, Jun Wang, Neil Burgess.*  
-*arXiv preprint arXiv:2205.15064* (2022).
+<!-- ## Thesis -->
+<h2 class="section-heading">PhD Thesis</h2>
 
-[<span style="font-size:larger;">DESTA: A Framework for Safe Reinforcement Learning with Markov Games of Intervention.</span>](https://arxiv.org/abs/2110.14468#:~:text=DESTA%3A%20A%20Framework%20for%20Safe%20Reinforcement%20Learning%20with%20Markov%20Games%20of%20Intervention,-David%20Mguni%2C%20Usman&text=Reinforcement%20learning%20(RL)%20involves%20performing,and%20potentially%20catastrophic%20system%20states.)  
-*David Henry Mguni, Usman Islam, Yaqi Sun, Xiuling Zhang, Joel Jennings, Aivar Sootla, **Changmin Yu**, Jun Wang, and Yaodong Yang.*  
-*arXiv preprint arXiv:2110.14468* (2021).
+<div class="pub-entry">
+  <div class="pub-entry-title">
+    <a href="https://discovery.ucl.ac.uk/id/eprint/10193105/">Hippocampus-inspired representation learning for artificial agents</a>
+  </div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong></div>
+  <div class="pub-entry-venue">PhD Thesis, UCL. Examiners: Peter Dayan, Andrew Saxe</div>
+</div>
 
-## Thesis
-[<span style="font-size:larger;">Hippocampus-Inspired Representation Learning for Artificial Agents. </span>](https://discovery.ucl.ac.uk/id/eprint/10193105/)  
-***Changmin Yu***  
-Examiner: Peter Dayan, Andrew Saxe.
-
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Peer-Reviewed Journals
-{% for post in site.journal_articles reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+</div>

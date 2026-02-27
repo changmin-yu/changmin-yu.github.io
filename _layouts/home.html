@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  <div class="home-wrapper">
+
+    <!-- Hero Section: Profile + About -->
+    <section class="hero-section">
+      <div class="hero-profile">
+        {% if site.author.avatar contains "://" %}
+          <img src="{{ site.author.avatar }}" alt="{{ site.author.name }}" class="hero-avatar">
+        {% else %}
+          <img src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ site.author.name }}" class="hero-avatar">
+        {% endif %}
+      </div>
+      <div class="hero-info">
+        <h1 class="hero-name">{{ site.author.name }}</h1>
+        {% if site.author.bio %}<p class="hero-bio">{{ site.author.bio }}</p>{% endif %}
+        <div class="hero-links">
+          {% if site.author.location %}
+            <span class="hero-link-item"><i class="fas fa-map-marker-alt"></i> {{ site.author.location }}</span>
+          {% endif %}
+          {% if site.author.email %}
+            <a href="mailto:{{ site.author.email }}" class="hero-link-item"><i class="fas fa-envelope"></i> Email</a>
+          {% endif %}
+          {% if site.author.twitter %}
+            <a href="https://twitter.com/{{ site.author.twitter }}" class="hero-link-item"><i class="fab fa-twitter"></i> Twitter</a>
+          {% endif %}
+          {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="hero-link-item"><i class="fab fa-github"></i> GitHub</a>
+          {% endif %}
+          {% if site.author.googlescholar %}
+            <a href="{{ site.author.googlescholar }}" class="hero-link-item"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+          {% endif %}
+          {% if site.author.linkedin %}
+            <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" class="hero-link-item"><i class="fab fa-linkedin"></i> LinkedIn</a>
+          {% endif %}
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content: About, Selected Publications, News -->
+    <div class="home-content">
+      {{ content }}
+    </div>
+
+  </div>
+</div>
