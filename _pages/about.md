@@ -35,7 +35,6 @@ redirect_from:
 <!-- ==================== SELECTED PUBLICATIONS ==================== -->
 <div class="home-section">
   <h2 class="section-heading">Selected Publications/Preprints</h2>
-
   <ul class="pub-list">
     <li class="pub-item">
       <div class="pub-thumb">
@@ -49,7 +48,6 @@ redirect_from:
         <div class="pub-venue">Under review, 2026</div>
       </div>
     </li>
-
     <li class="pub-item">
       <div class="pub-thumb">
         <img src="/images/pubs/theta_sweeps.png" alt="Theta sweeps">
@@ -62,7 +60,6 @@ redirect_from:
         <div class="pub-venue">Under review, 2025</div>
       </div>
     </li>
-
     <li class="pub-item">
       <div class="pub-thumb">
         <img src="/images/pubs/sigpfa.png" alt="Switching iGPFA">
@@ -76,7 +73,6 @@ redirect_from:
         <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025</div>
       </div>
     </li>
-
     <li class="pub-item">
       <div class="pub-thumb">
         <img src="/images/pubs/spie.png" alt="SPIE">
@@ -89,7 +85,6 @@ redirect_from:
         <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2023</div>
       </div>
     </li>
-
     <li class="pub-item">
       <div class="pub-thumb">
         <img src="/images/pubs/sr_gpfa.png" alt="Structured Recognition">
@@ -102,7 +97,6 @@ redirect_from:
         <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2022</div>
       </div>
     </li>
-
     <li class="pub-item">
       <div class="pub-thumb">
         <img src="/images/pubs/grid_cell.png" alt="Grid Cells">
@@ -116,14 +110,12 @@ redirect_from:
       </div>
     </li>
   </ul>
-
   <a href="/publications/" class="section-more">View all publications →</a>
 </div>
 
 <!-- ==================== NEWS ==================== -->
 <div class="home-section">
   <h2 class="section-heading">News</h2>
-
   <ul class="news-list">
     <li class="news-item">
       <span class="news-date">Jan 2025</span>
