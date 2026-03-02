@@ -67,10 +67,9 @@ redirect_from:
       <div class="pub-info">
         <div class="pub-title">
           <a href="https://openreview.net/forum?id=2iCIHgE8KG">Discovering temporally compositional neural manifolds with wwitching infinite GPFA</a>
-          <span class="pub-badge pub-badge--spotlight">Spotlight</span>
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Maneesh Sahani, Máté Lengyel</div>
-        <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025</div>
+        <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025 <span class="pub-badge pub-badge--spotlight">Spotlight</span> </div>
       </div>
     </li>
     <li class="pub-item">

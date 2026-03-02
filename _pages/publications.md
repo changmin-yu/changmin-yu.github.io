@@ -19,7 +19,7 @@ author_profile: false
     <a href="https://www.nature.com/articles/s41467-025-68042-3">Dynamical modulation of hippocampal replay through firing rate adaptation</a>
   </div>
   <div class="pub-entry-authors">Zilong Ji, Tianhao Chu, Xingsi Dong, <strong>Changmin Yu</strong>, Daniel Bush, Neil Burgess & Si Wu </div>
-  <div class="pub-entry-venue">Nature Communications, 2025</div>
+  <div class="pub-entry-venue">Nature Communications, 2026</div>
 </div>
 
 <div class="pub-entry">
@@ -107,7 +107,7 @@ author_profile: false
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://arxiv.org/abs/2205.15064">SEREN: Knowing When to Explore and When to Exploit</a>
+    <a href="https://arxiv.org/abs/2205.15064">SEREN: knowing when to explore and when to exploit</a>
   </div>
   <div class="pub-entry-authors"><strong>Changmin Yu</strong>, David Mguni, Dong Li, Aivar Sootla, Jun Wang, Neil Burgess</div>
   <div class="pub-entry-venue">arXiv preprint, 2022</div>
@@ -115,7 +115,7 @@ author_profile: false
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://arxiv.org/abs/2110.14468">DESTA: A Framework for Safe Reinforcement Learning with Markov Games of Intervention</a>
+    <a href="https://arxiv.org/abs/2110.14468">DESTA: a framework for safe reinforcement learning with Markov games of intervention</a>
   </div>
   <div class="pub-entry-authors">David Henry Mguni, Usman Islam, Yaqi Sun, Xiuling Zhang, Joel Jennings, Aivar Sootla, <strong>Changmin Yu</strong>, Jun Wang, Yaodong Yang</div>
   <div class="pub-entry-venue">arXiv preprint, 2021</div>
@@ -126,7 +126,7 @@ author_profile: false
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://openreview.net/forum?id=XgDJNzBBgrc">Leveraging Episodic Memory to Improve World Models for Reinforcement Learning</a>
+    <a href="https://openreview.net/forum?id=XgDJNzBBgrc">Leveraging episodic memory to improve world models for reinforcement learning</a>
   </div>
   <div class="pub-entry-authors">Julian Coda-Forno, <strong>Changmin Yu</strong>, Qinghai Guo, Zafeirios Fountas, Neil Burgess</div>
   <div class="pub-entry-venue">Memory in Artificial and Real Intelligence Workshop at NeurIPS, 2022</div>
@@ -134,7 +134,7 @@ author_profile: false
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://openreview.net/forum?id=cbu8kYSYzBm">Learning State Representations via Temporal Cycle-Consistency Constraint in Model-Based Reinforcement Learning</a>
+    <a href="https://openreview.net/forum?id=cbu8kYSYzBm">Learning state representations via temporal cycle-consistency constraint in Mmodel-based reinforcement learning</a>
   </div>
   <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Dong Li, Hangyu Mao, Jianye Hao, Neil Burgess</div>
   <div class="pub-entry-venue">Self-Supervision for Reinforcement Learning Workshop at ICLR, 2021</div>
