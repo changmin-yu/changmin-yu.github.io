@@ -117,19 +117,19 @@ redirect_from:
   <h2 class="section-heading">News</h2>
   <ul class="news-list">
   <li class="news-item">
-      <span class="news-date">May 2025</span>
+      <span class="news-date">May 2026</span>
       <span class="news-text">I have been seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>
     </li>
   <li class="news-item">
-      <span class="news-date">April 2025</span>
+      <span class="news-date">April 2026</span>
       <span class="news-text">Our paper "Hierarchical successor representation for robust transfer" has been accepted as a <strong>Spotlight</strong> at ICML 2026.</span>
     </li>
   <li class="news-item">
-      <span class="news-date">April 2025</span>
+      <span class="news-date">April 2026</span>
       <span class="news-text">Our paper "Hippocampal theta sweeps indicate goal direction during navigation" has been accepted in principle at Nature Neuroscience.</span>
     </li>
     <li class="news-item">
-      <span class="news-date">April 2025</span>
+      <span class="news-date">April 2026</span>
       <span class="news-text">I have been accepted to the <a href="https://www.simonsfoundation.org/event/jrworkshop2026/">Simons Junior Neuroscientist Workshop</a>.</span>
     </li>
     <li class="news-item">
