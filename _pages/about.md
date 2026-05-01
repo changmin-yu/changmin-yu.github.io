@@ -17,14 +17,14 @@ redirect_from:
       neuroscience at <a href="https://www.cbl-cambridge.org/">Computational and Biological Learning Lab</a>
       in the engineering department at University of Cambridge, advised by
       <a href="https://cbl.eng.cam.ac.uk/lengyel/">Máté Lengyel</a>.
-      Previously, I did my PhD in computational neuroscience and machine learning at UCL as a DeepMind scholar,
+      Previously, I completed my PhD in computational neuroscience and machine learning at UCL as a DeepMind scholar,
       supervised by <a href="https://www.ucl.ac.uk/icn/people/neil-burgess">Neil Burgess</a>
       and <a href="https://www.gatsby.ucl.ac.uk/~maneesh/">Maneesh Sahani</a>. 
     </p>
     <p>
       My research focuses on normative modelling of hippocampal system with probabilistic inference.
       I am also interested in deep generative models and reinforcement learning.
-      I have previously undertaken industrial placements in Optiver, Meta, Microsoft Research, and Huawei,
+      Previously I worked as research scientists in industries, including Optiver, Meta, Microsoft Research, and Huawei,
       and was a visiting PhD student in <a href="https://gershmanlab.com/">Samuel Gershman</a>'s lab.
       Prior to PhD, I studied mathematics at Imperial College and Cambridge.
     </p>
@@ -45,7 +45,7 @@ redirect_from:
           <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
-        <div class="pub-venue">Under review, 2026</div>
+        <div class="pub-venue">International Conference on Machine Learning (ICML), 2026 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
       </div>
     </li>
     <li class="pub-item">
@@ -54,10 +54,10 @@ redirect_from:
       </div>
       <div class="pub-info">
         <div class="pub-title">
-          <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction</a>
+          <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction during navigation</a>
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess</div>
-        <div class="pub-venue">Under review, 2025</div>
+        <div class="pub-venue">Accepted in principle at Nature Neuroscience, 2026</div>
       </div>
     </li>
     <li class="pub-item">
@@ -66,7 +66,7 @@ redirect_from:
       </div>
       <div class="pub-info">
         <div class="pub-title">
-          <a href="https://openreview.net/forum?id=2iCIHgE8KG">Discovering temporally compositional neural manifolds with wwitching infinite GPFA</a>
+          <a href="https://openreview.net/forum?id=2iCIHgE8KG">Discovering temporally compositional neural manifolds with switching infinite GPFA</a>
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Maneesh Sahani, Máté Lengyel</div>
         <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025 <span class="pub-badge pub-badge--spotlight">Spotlight</span> </div>
@@ -116,13 +116,29 @@ redirect_from:
 <div class="home-section">
   <h2 class="section-heading">News</h2>
   <ul class="news-list">
+  <li class="news-item">
+      <span class="news-date">May 2025</span>
+      <span class="news-text">I have been seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>
+    </li>
+  <li class="news-item">
+      <span class="news-date">April 2025</span>
+      <span class="news-text">Our paper "Hierarchical successor representation for robust transfer" has been accepted as a <strong>Spotlight</strong> at ICML 2026.</span>
+    </li>
+  <li class="news-item">
+      <span class="news-date">April 2025</span>
+      <span class="news-text">Our paper "Hippocampal theta sweeps indicate goal direction during navigation" has been accepted in principle at Nature Neuroscience.</span>
+    </li>
+    <li class="news-item">
+      <span class="news-date">April 2025</span>
+      <span class="news-text">I have been accepted to the <a href="https://www.simonsfoundation.org/event/jrworkshop2026/">Simons Junior Neuroscientist Workshop</a>.</span>
+    </li>
     <li class="news-item">
       <span class="news-date">Jan 2025</span>
       <span class="news-text">Our paper "Discovering temporally compositional neural manifolds with switching infinite GPFA" was accepted as a <strong>Spotlight</strong> at ICLR 2025.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Oct 2024</span>
-      <span class="news-text">I was awarded a Trainee Professional Development Award for Society for Neuroscience (SfN) 2024.</span>
+      <span class="news-text">I was awarded a <a href="https://www.sfn.org/meetings/meeting-awards/trainee-professional-development-award">Trainee Professional Development Award</a> at Society for Neuroscience (SfN) 2024.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2024</span>
@@ -131,10 +147,6 @@ redirect_from:
     <li class="news-item">
       <span class="news-date">Nov 2023</span>
       <span class="news-text">I successfully defended my PhD thesis "Hippocampus-Inspired Representation Learning for Artificial Agents" with minor corrections, thanks to my examiners Peter Dayan and Andrew Saxe!</span>
-    </li>
-    <li class="news-item">
-      <span class="news-date">Sep 2023</span>
-      <span class="news-text">Our paper "Successor-Predecessor Intrinsic Exploration" was accepted at NeurIPS 2023.</span>
     </li>
   </ul>
 </div>
