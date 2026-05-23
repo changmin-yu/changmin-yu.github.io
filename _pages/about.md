@@ -118,11 +118,11 @@ redirect_from:
   <ul class="news-list">
   <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">I have been award a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain"</span>
+      <span class="news-text">I was awarded a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain"</span>
     </li>
   <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">I have been seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>
+      <span class="news-text">I was seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>
     </li>
   <li class="news-item">
       <span class="news-date">April 2026</span>
@@ -134,7 +134,7 @@ redirect_from:
     </li>
     <li class="news-item">
       <span class="news-date">April 2026</span>
-      <span class="news-text">I have been accepted to the <a href="https://www.simonsfoundation.org/event/jrworkshop2026/">Simons Junior Neuroscientist Workshop</a>.</span>
+      <span class="news-text">I was accepted to the <a href="https://www.simonsfoundation.org/event/jrworkshop2026/">Simons Junior Neuroscientist Workshop</a>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2025</span>
