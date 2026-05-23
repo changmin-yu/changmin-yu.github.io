@@ -118,11 +118,11 @@ redirect_from:
   <ul class="news-list">
   <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">I was awarded a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain"</span>
+      <span class="news-text">I was awarded a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain". I will stay on at CBL.</span>
     </li>
   <li class="news-item">
       <span class="news-date">May 2026</span>
-      <span class="news-text">I was seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>
+      <span class="news-text">I was seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow</a>.</span>
     </li>
   <li class="news-item">
       <span class="news-date">April 2026</span>
@@ -146,7 +146,7 @@ redirect_from:
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2024</span>
-      <span class="news-text">Started postdoc position at <a href="https://www.cbl-cambridge.org/">CBL, University of Cambridge</a>, working with Máté Lengyel.</span>
+      <span class="news-text">I started postdoc at <a href="https://www.cbl-cambridge.org/">CBL</a>, working with Máté Lengyel.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Nov 2023</span>
