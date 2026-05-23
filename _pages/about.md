@@ -38,18 +38,6 @@ redirect_from:
   <ul class="pub-list">
     <li class="pub-item">
       <div class="pub-thumb">
-        <img src="/images/pubs/hsr.png" alt="Hierarchical SR">
-      </div>
-      <div class="pub-info">
-        <div class="pub-title">
-          <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
-        </div>
-        <div class="pub-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
-        <div class="pub-venue">International Conference on Machine Learning (ICML), 2026 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
-      </div>
-    </li>
-    <li class="pub-item">
-      <div class="pub-thumb">
         <img src="/images/pubs/theta_sweeps.png" alt="Theta sweeps">
       </div>
       <div class="pub-info">
@@ -58,6 +46,18 @@ redirect_from:
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess</div>
         <div class="pub-venue">Accepted in principle at Nature Neuroscience, 2026</div>
+      </div>
+    </li>
+    <li class="pub-item">
+      <div class="pub-thumb">
+        <img src="/images/pubs/hsr.png" alt="Hierarchical SR">
+      </div>
+      <div class="pub-info">
+        <div class="pub-title">
+          <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
+        </div>
+        <div class="pub-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
+        <div class="pub-venue">International Conference on Machine Learning (ICML), 2026 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
       </div>
     </li>
     <li class="pub-item">
@@ -116,6 +116,10 @@ redirect_from:
 <div class="home-section">
   <h2 class="section-heading">News</h2>
   <ul class="news-list">
+  <li class="news-item">
+      <span class="news-date">May 2026</span>
+      <span class="news-text">I have been award a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain"</span>
+    </li>
   <li class="news-item">
       <span class="news-date">May 2026</span>
       <span class="news-text">I have been seleced as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/">DAAD AINeT fellow.</a></span>

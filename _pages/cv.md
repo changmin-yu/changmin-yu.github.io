@@ -11,6 +11,8 @@ redirect_from:
 
 <div class="cv-page">
 
+<a href="{{ site.baseurl }}/cv_cyu.pdf">Full CV</a> (last updated: May 2026).
+
 <!-- ## Current Position -->
 <h2 class="section-heading">Current Position</h2>
 
@@ -19,7 +21,7 @@ redirect_from:
   <div class="cv-details">
     <div class="cv-role">Postdoctoral Research Associate</div>
     <div class="cv-org">Computational and Biological Learning Lab, Department of Engineering, University of Cambridge</div>
-    <div class="cv-desc">Advisor: Máté Lengyel. Research on normative models of hippocampal computation and probabilistic inference.</div>
+    <div class="cv-desc">Advisor: Máté Lengyel.</div>
   </div>
 </div>
 
