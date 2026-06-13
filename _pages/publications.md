@@ -16,18 +16,18 @@ author_profile: false
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
+    <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction during navigation</a>
   </div>
-  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
-  <div class="pub-entry-venue">International Conference on Machine Learning (ICML), 2026 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe & Neil Burgess </div>
+  <div class="pub-entry-venue">Nature Neuroscience, 2026</div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-entry-title">
-    <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction during navigation</a>
+    <a href="https://arxiv.org/abs/2602.12753">Hierarchical successor representation for robust transfer</a>
   </div>
-  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe & Neil Burgess </div>
-  <div class="pub-entry-venue">Accepted in principle at Nature Neuroscience, 2026</div>
+  <div class="pub-entry-authors"><strong>Changmin Yu</strong>, Máté Lengyel</div>
+  <div class="pub-entry-venue">International Conference on Machine Learning (ICML), 2026 <span class="pub-badge pub-badge--spotlight">Spotlight</span></div>
 </div>
 
 <div class="pub-entry">

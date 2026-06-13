@@ -19,7 +19,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-date">2024 – Present</div>
   <div class="cv-details">
-    <div class="cv-role">Postdoctoral Research Associate</div>
+    <div class="cv-role">Postdoctoral Research Fellow</div>
     <div class="cv-org">Computational and Biological Learning Lab, Department of Engineering, University of Cambridge</div>
     <div class="cv-desc">Advisor: Máté Lengyel.</div>
   </div>

@@ -45,7 +45,7 @@ redirect_from:
           <a href="https://www.biorxiv.org/content/10.1101/2025.08.21.671551v1">Hippocampal theta sweeps indicate goal direction during navigation</a>
         </div>
         <div class="pub-authors"><strong>Changmin Yu</strong>, Zilong Ji, Jake Ormond, John O'Keefe, Neil Burgess</div>
-        <div class="pub-venue">Accepted in principle at Nature Neuroscience, 2026</div>
+        <div class="pub-venue"> Nature Neuroscience, 2026</div>
       </div>
     </li>
     <li class="pub-item">
@@ -117,6 +117,10 @@ redirect_from:
   <h2 class="section-heading">News</h2>
   <ul class="news-list">
   <li class="news-item">
+      <span class="news-date">June 2026</span>
+      <span class="news-text">Our paper "Hippocampal theta sweeps indicate goal direction during navigation" has been accepted at Nature Neuroscience.</span>
+    </li>
+  <li class="news-item">
       <span class="news-date">May 2026</span>
       <span class="news-text">I was awarded a <a href="https://www.leverhulme.ac.uk/early-career-fellowships">Leverhulme Early Career Fellowship</a> to study the project "Towards a unified theoretical understanding of generalisation in the brain". I will stay on at CBL.</span>
     </li>
@@ -127,14 +131,6 @@ redirect_from:
   <li class="news-item">
       <span class="news-date">April 2026</span>
       <span class="news-text">Our paper "Hierarchical successor representation for robust transfer" has been accepted as a <strong>Spotlight</strong> at ICML 2026.</span>
-    </li>
-  <li class="news-item">
-      <span class="news-date">April 2026</span>
-      <span class="news-text">Our paper "Hippocampal theta sweeps indicate goal direction during navigation" has been accepted in principle at Nature Neuroscience.</span>
-    </li>
-    <li class="news-item">
-      <span class="news-date">April 2026</span>
-      <span class="news-text">I was accepted to the <a href="https://www.simonsfoundation.org/event/jrworkshop2026/">Simons Junior Neuroscientist Workshop</a>.</span>
     </li>
     <li class="news-item">
       <span class="news-date">Jan 2025</span>
